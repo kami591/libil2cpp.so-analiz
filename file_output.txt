@@ -1,0 +1,1 @@
+libil2cpp.so: ELF shared object, 64-bit LSB arm64, BuildID=dacf0abb080d1720c5e4ad31d9ce8f4054f4feaa, for Android 22, built by NDK r21d (6528147), stripped
